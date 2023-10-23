@@ -8,5 +8,6 @@ Esta nave vuela en un espacio reducido y unicamente se puede dirigir hacia adela
 
 Si la nave sale del espacio de la pantalla por un extremo esta vuelve a aparecer por el extremo contrario para generar un efecto de libertad de movimiento y movimiento continuo.
 
+![Casos de uso](https://github.com/Felipr19/Refactory-ejercicio/blob/main/uml.png)
 
 Juan Felipe Rincon Barrgan - 20231020048 Juan Sebastian Vega Diaz - 20231020087 Andrés Santiago Rodríguez Reyes - 20231020089
